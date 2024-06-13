@@ -23,7 +23,7 @@ function App() {
       {
         headers: {
           ...form.getHeaders(),
-          'Authorization': 'Bearer ' + "sk-proj-GyJWXgYlukgNd9pP4U10T3BlbkFJSTjlVJw3svAdAYZJarou",
+          'Authorization': 'Bearer ' + "",
           'Content-Type': 'multipart/form-data'
         }
       }
